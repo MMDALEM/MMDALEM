@@ -53,11 +53,11 @@ AboutMe(req, res) {
   ![Android](https://img.shields.io/badge/Android-0078D6?style=for-the-badge&logo=android&color=339933&logoColor=white)
 
 <br>
-<!-- <div align="center">
+ <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MMDALAM&show_icons=true&count_private=true&theme=radical&include_all_commits=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMDALAM&layout=compact&theme=radical&exclude_repo=webscraper"/>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MMDALAM&theme=radical&date_format=j%20M%5B%20Y%5D&fire=EB5454" alt="GitHub Streak"/></a>
-</div> -->
+</div> 
 
 ## 🌎 Find me
   <a href="mailto:mmmohammadalam@gmail.com" target="blank"><img align="center" src="https://github.com/user-attachments/assets/946a50ec-3987-48cc-b8dc-ba2282a9126a" height="45" width="45" /></a>

@@ -52,7 +52,7 @@ AboutMe(req, res) {
   ![Ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
   ![Android](https://img.shields.io/badge/Android-0078D6?style=for-the-badge&logo=android&color=339933&logoColor=white)
 
-<!-- <br>
+<!--<br>
  <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MMDALAM&show_icons=true&count_private=true&theme=radical&include_all_commits=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMDALAM&layout=compact&theme=radical&exclude_repo=webscraper"/>

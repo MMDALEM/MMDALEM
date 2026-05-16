@@ -3,7 +3,7 @@
 I'm BackEnd-Developer and software engineer
 
 ```javascript
-module.exports = new class mmdalam {
+module.exports = new class mmdalem {
 
 AboutMe(req, res) {
     return res.status(200).json({

@@ -38,12 +38,12 @@ AboutMe(req, res) {
 ```
 <br>
 
-## ⚡ Expertise
+<!-- ## ⚡ Expertise
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,npm,cloudflare,docker" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,rabbitmq,mongodb,mysql,redis" /><br>
 </div>
-<br>
+<br> -->
 
 ## ⚡ Platforms
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
